@@ -30,7 +30,7 @@ social:
   link: 'mailto:rpinosio@gmail.com'
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/riccardo-pinosio'
+  link: 'https://www.linkedin.com/in/riccardo-pinosio'
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Riccardo_Pinosio
