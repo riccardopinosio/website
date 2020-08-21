@@ -51,10 +51,10 @@ user_groups:
 - Visitors
 ---
 Riccardo Pinosio is currently Senior Data Scientist at Altius (Avanade) and lecturer in Machine
-Learning at the Amsterdam University of Applied Sciences. His main interests are:
+Learning at the Amsterdam University of Applied Sciences. His work focuses on:
 
 - Data strategy and digital transformation consulting
-- Machine learning (especially forecasting and optimization, asset pricing, marketing intelligence,
+- Machine learning (especially in the context of forecasting and optimization, asset pricing, marketing intelligence,
   information retrieval and natural language, IoT)
 - Bayesian models and statistical inference
 - Machine learning engineering and MLOps
