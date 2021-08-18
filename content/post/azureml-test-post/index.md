@@ -1,12 +1,12 @@
 ---
-title: "On Azure Machine Learning"
+title: "Power from the seventies: writing a blog with emacs"
 author: ["admin"]
-tags: ["MLOps", "Cloud-Computing", "Azure"]
+tags: ["emacs"]
 categories: ["computing"]
 draft: true
 featured: false
 subtitle: "This is a subtitle and it's very good."
-draft: false
+draft: true
 ---
 
 ## Post heading {#post-heading}
